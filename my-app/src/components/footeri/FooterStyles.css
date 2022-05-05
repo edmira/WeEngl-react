@@ -1,0 +1,19 @@
+.footer {
+    width: 100%;
+    height:auto ;
+    object-fit: contain;
+    background: url('../../assets/9.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: center/cover;
+    padding: 1%;
+    ;
+}
+.footer .container {
+    margin: auto;
+    text-align: center;
+    
+}
+.footer .container h3{
+    color: #dfafff;
+}
